@@ -55,15 +55,16 @@ export default function Footer() {
           <ul className="mt-4 space-y-4 text-gray-300">
             <li className="flex items-start gap-3">
               <FaMapMarkerAlt className="text-[#4EE0D4] text-xl" />
-              <span>Marathahalli, Bangalore, Karnataka</span>
+              <span>1st floor, Anjanadri Krest, SY no. 104/3A,
+            Munnekollal Main Rd, Marathahalli, Bengaluru, Karnataka 560037</span>
             </li>
             <li className="flex items-start gap-3">
               <FaPhoneAlt className="text-[#4EE0D4] text-xl" />
-              <span>+91 98765 43210</span>
+              <span>+91 9321533345</span>
             </li>
             <li className="flex items-start gap-3">
               <FaEnvelope className="text-[#4EE0D4] text-xl" />
-              <span>contact@maxalign.com</span>
+              <span>maxaligndental@gmail.com</span>
             </li>
           </ul>
         </div>
