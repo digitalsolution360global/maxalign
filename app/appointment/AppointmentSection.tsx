@@ -58,7 +58,7 @@ export default function AppointmentSection() {
               placeholder="Full Name"
               value={formData.name}
               onChange={handleChange}
-              className="w-full p-4 rounded-xl border border-gray-300 focus:ring-2 focus:ring-[#0B7A75] outline-none"
+              className="w-full p-4 rounded-xl text-black border border-gray-300 focus:ring-2 focus:ring-[#0B7A75] outline-none"
               required
             />
             <input
@@ -67,7 +67,7 @@ export default function AppointmentSection() {
               placeholder="Email"
               value={formData.email}
               onChange={handleChange}
-              className="w-full p-4 rounded-xl border border-gray-300 focus:ring-2 focus:ring-[#0B7A75] outline-none"
+              className="w-full p-4 rounded-xl text-black border border-gray-300 focus:ring-2 focus:ring-[#0B7A75] outline-none"
               required
             />
             <input
@@ -76,7 +76,7 @@ export default function AppointmentSection() {
               placeholder="Phone Number"
               value={formData.phone}
               onChange={handleChange}
-              className="w-full p-4 rounded-xl border border-gray-300 focus:ring-2 focus:ring-[#0B7A75] outline-none"
+              className="w-full p-4 rounded-xl text-black border border-gray-300 focus:ring-2 focus:ring-[#0B7A75] outline-none"
               required
             />
             <input
@@ -84,7 +84,7 @@ export default function AppointmentSection() {
               name="date"
               value={formData.date}
               onChange={handleChange}
-              className="w-full p-4 rounded-xl border border-gray-300 focus:ring-2 focus:ring-[#0B7A75] outline-none"
+              className="w-full p-4 rounded-xl text-black border border-gray-300 focus:ring-2 focus:ring-[#0B7A75] outline-none"
               required
             />
             <input
@@ -92,14 +92,14 @@ export default function AppointmentSection() {
               name="time"
               value={formData.time}
               onChange={handleChange}
-              className="w-full p-4 rounded-xl border border-gray-300 focus:ring-2 focus:ring-[#0B7A75] outline-none"
+              className="w-full p-4 rounded-xl text-black border border-gray-300 focus:ring-2 focus:ring-[#0B7A75] outline-none"
               required
             />
             <select
               name="service"
               value={formData.service}
               onChange={handleChange}
-              className="w-full p-4 rounded-xl border border-gray-300 focus:ring-2 focus:ring-[#0B7A75] outline-none"
+              className="w-full p-4 rounded-xl text-black border border-gray-300 focus:ring-2 focus:ring-[#0B7A75] outline-none"
               required
             >
               <option value="">Select Service</option>
@@ -114,7 +114,7 @@ export default function AppointmentSection() {
               rows={4}
               value={formData.message}
               onChange={handleChange}
-              className="w-full p-4 rounded-xl border border-gray-300 focus:ring-2 focus:ring-[#0B7A75] outline-none md:col-span-2"
+              className="w-full p-4 rounded-xl text-black border border-gray-300 focus:ring-2 focus:ring-[#0B7A75] outline-none md:col-span-2"
             ></textarea>
             <button
               type="submit"
