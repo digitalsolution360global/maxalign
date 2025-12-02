@@ -66,7 +66,7 @@ export default function Footer() {
         
             {/* Address */}
             <li className="flex items-start gap-3">
-              <FaMapMarkerAlt className="text-[#4EE0D4] text-xl" />
+              <FaMapMarkerAlt className="text-[#4EE0D4] text-2xl" />
               <span>
                 1st floor, Anjanadri Krest, SY no. 104/3A,
                 Munnekollal Main Rd, Marathahalli, Bengaluru, Karnataka 560037
