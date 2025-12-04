@@ -47,7 +47,8 @@ export default function CounterSection() {
   }, []);
 
   return (
-    <section className="relative w-full py-20 bg-gradient-to-r from-white via-[#E0F7F6]/50 to-white overflow-hidden">
+    
+    <section className="relative w-full py-20 bg-white overflow-hidden">
       <div className="absolute inset-0">
         <div className="w-full h-full bg-[url('/assets/banner/dental-bg.jpg')] bg-cover bg-center opacity-10"></div>
       </div>
