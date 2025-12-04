@@ -46,19 +46,19 @@ export default function AboutSection() {
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-6">
               <div className="p-4 bg-[#0B7A75]/10 rounded-lg shadow-md">
                 <h3 className="font-semibold text-[#0B7A75] mb-1">Experienced Team</h3>
-                <p>Top-notch dental experts ensuring high-quality care.</p>
+                <p className="text-black">Top-notch dental experts ensuring high-quality care.</p>
               </div>
               <div className="p-4 bg-[#0B7A75]/10 rounded-lg shadow-md">
                 <h3 className="font-semibold text-[#0B7A75] mb-1">Comprehensive Services</h3>
-                <p>All dental procedures from basic care to advanced treatments.</p>
+                <p className="text-black">All dental procedures from basic care to advanced treatments.</p>
               </div>
               <div className="p-4 bg-[#0B7A75]/10 rounded-lg shadow-md">
                 <h3 className="font-semibold text-[#0B7A75] mb-1">State-of-the-Art Technology</h3>
-                <p>Modern equipment and digital diagnostics for precision.</p>
+                <p className="text-black">Modern equipment and digital diagnostics for precision.</p>
               </div>
               <div className="p-4 bg-[#0B7A75]/10 rounded-lg shadow-md">
                 <h3 className="font-semibold text-[#0B7A75] mb-1">Emergency Services</h3>
-                <p>Quick response to urgent dental needs, ensuring comfort.</p>
+                <p className="text-black">Quick response to urgent dental needs, ensuring comfort.</p>
               </div>
             </div>
           </div>
