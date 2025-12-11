@@ -35,7 +35,7 @@ export default function AppointmentSection() {
     <section className="w-full relative overflow-hidden bg-gray-50">
       {/* Banner */}
       <div className="w-full h-[300px] md:h-[400px] bg-gradient-to-r from-[#0B7A75] via-[#083f41] to-black flex items-center justify-center">
-        <div className="text-center px-6 z-10 max-w-2xl animate-fadeSlideInLeft">
+        <div className="md:text-center px-6 pt-15 md:pt-0 z-10 max-w-2xl animate-fadeSlideInLeft">
           <h1 className="text-4xl md:text-5xl font-extrabold text-white tracking-tight text-shadow-lg">
             Book an Appointment
           </h1>
@@ -48,7 +48,7 @@ export default function AppointmentSection() {
       {/* Appointment Form */}
       <div className="max-w-7xl mx-auto px-6 py-16">
         <div className="bg-white rounded-3xl shadow-xl p-10 max-w-4xl mx-auto">
-          <h2 className="text-3xl font-extrabold text-[#0B7A75] mb-8 text-center">
+          <h2 className="text-3xl font-extrabold text-[#0B7A75] mb-8 md:text-center">
             Appointment Form
           </h2>
           <form className="grid grid-cols-1 md:grid-cols-2 gap-6" onSubmit={handleSubmit}>

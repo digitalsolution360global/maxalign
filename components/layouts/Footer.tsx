@@ -121,8 +121,14 @@ export default function Footer() {
 
       {/* Mobile Fixed Footer - Logo + Call & WhatsApp */}
       <div className="fixed bottom-0 left-0 w-full bg-[#062023] flex items-center justify-between px-4 py-3 sm:hidden z-50 border-t border-gray-600/40">
-        {/* Logo Left */}
-        <Link href="/" className="text-[#4EE0D4] font-bold">MaxAlign</Link>
+        {/* Logo Left
+        <Link href="/" className="text-[#4EE0D4] font-bold">MaxAlign</Link> */}
+          {/* LEFT → Book Appointment Button */}
+  <Link href="/appointment">
+    <button className="bg-[#4EE0D4] text-[#062023] font-semibold px-4 py-2 rounded-lg shadow hover:bg-white transition">
+      Book Appointment
+    </button>
+  </Link>
 
         {/* Call & WhatsApp Buttons Right */}
         <div className="flex gap-2">
