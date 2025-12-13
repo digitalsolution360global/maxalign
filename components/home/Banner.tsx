@@ -15,11 +15,11 @@ export default function DentalBanner() {
         {/* LEFT CONTENT */}
         <div className="md:w-1/2 space-y-6 z-10">
           <h1 className="text-4xl md:text-5xl font-bold text-white">
-            Your Smile, Our Passion
+            Most Trusted Dental Clinic in Marathahalli, Bengaluru
           </h1>
 
           <p className="text-lg md:text-xl text-gray-200">
-            At Maxalign Dental Clinic, we promise exceptional dental care with advanced modern technology to ensure a brighter, healthier smile.
+           Best dental care in Marathahalli with advanced diagnostics, pain-free treatments, and a family-friendly environment..
           </p>
 
           <div className="flex flex-wrap gap-4 mt-8">
