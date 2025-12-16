@@ -25,9 +25,9 @@ export default function Footer() {
           </div>
         </div>
 
-        {/* Quick Links */}
+        {/* About Clinic */}
         <div>
-          <h3 className="text-xl font-semibold text-[#4EE0D4]">Quick Links</h3>
+          <h3 className="text-xl font-semibold text-[#4EE0D4]">About Clinic</h3>
           <ul className="mt-4 space-y-3 text-gray-300">
             <li><Link href="/" className="hover:text-white transition">Home</Link></li>
             <li><Link href="/about" className="hover:text-white transition">About Us</Link></li>
@@ -38,15 +38,14 @@ export default function Footer() {
           </ul>
         </div>
 
-        {/* Our Services */}
+        {/* quick links */}
         <div>
-          <h3 className="text-xl font-semibold text-[#4EE0D4]">Our Services</h3>
+          <h3 className="text-xl font-semibold text-[#4EE0D4]">Quick Links</h3>
           <ul className="mt-4 space-y-3 text-gray-300">
-            <li><Link href="#" className="hover:text-white transition">Orthodontics</Link></li>
-            <li><Link href="#" className="hover:text-white transition">Teeth Whitening</Link></li>
-            <li><Link href="#" className="hover:text-white transition">Cavity Filling</Link></li>
-            <li><Link href="#" className="hover:text-white transition">Dental Implants</Link></li>
-            <li><Link href="#" className="hover:text-white transition">Root Canal Treatment</Link></li>
+            <li><Link href="/best-dental-clinic-marathahalli" className="hover:text-white transition">Marathahalli</Link></li>
+            <li><Link href="/affordable-dental-care" className="hover:text-white transition">affordable Dental Care</Link></li>
+            <li><Link href="/top-dental-problems" className="hover:text-white transition">Top Dental Problems</Link></li>
+           
           </ul>
         </div>
 
