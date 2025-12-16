@@ -24,7 +24,7 @@ export default function ServiceTabs() {
   const pathname = usePathname();
 
   return (
-    <div className="w-full bg-white/70 backdrop-blur-xl border-b shadow-md sticky top-0 z-20">
+    <div className="w-full bg-white/70 backdrop-blur-xl border-b shadow-md  top-0 z-20">
       <div
         className="
           max-w-7xl mx-auto px-4 py-4
