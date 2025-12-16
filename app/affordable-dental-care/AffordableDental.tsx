@@ -2,11 +2,12 @@
 import React from "react";
 import { useState } from "react";
 export default function AffordableDental() {
-     const [openIndex, setOpenIndex] = useState(null);
+    const [openIndex, setOpenIndex] = useState<number | null>(null);
 
-  const toggleFAQ = (index) => {
-    setOpenIndex(openIndex === index ? null : index);
-  };
+const toggleFAQ = (index: number) => {
+  setOpenIndex(openIndex === index ? null : index);
+};
+
 
   const faqs = [
     {
