@@ -20,6 +20,11 @@ export default function RegularDentalCheckups() {
       img: "/assets/blogs/b3.jpg",
       link: "/blogs/importance-of-dental-checkups",
     },
+    {
+      title: "Why Winter is the Best Time to Have Teeth Whitening in Bangalore",
+      img: "/assets/blogs/b2.jpg",
+      link: "/blogs/teeth-whitening",
+    },
   ];
 
   return (

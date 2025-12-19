@@ -156,6 +156,21 @@ export default function WhiteningBlog() {
                     </p>
                   </div>
                 </Link>
+                    <Link href="/blogs/teeth-whitening">
+                    <div className="flex items-center gap-4 hover:opacity-80">
+                      <Image
+                        src="/assets/blogs/b2.jpg"
+                        width={90}
+                        height={60}
+                        alt="Blog 3"
+                        className="rounded-lg"
+                      />
+                      <p className="text-gray-700 font-medium">
+                        Why Winter is the Best Time to Have Teeth Whitening in Bangalore
+                      </p>
+                    </div>
+                  </Link>
+                  
               </div>
             </div>
           </aside>
