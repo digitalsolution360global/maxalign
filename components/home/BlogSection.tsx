@@ -35,6 +35,13 @@ export default function BlogSection() {
       img: "/assets/blogs/b1.jpg",
       link: "/blogs/WinterDentalCareBlog",
     },
+     {
+      title: "Common Dental Problems in Bangalore and How to Prevent Them",
+      desc: "The busy life and lifestyle of Bangalore, the shift...",
+      img: "/assets/blogs/b1.jpg",
+      link: "/blogs/common-dental-problems-in-Bangalore",
+    },
+  
     
   ];
 
