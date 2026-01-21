@@ -19,6 +19,12 @@ export const metadata = {
     "Clear Aligners Bengaluru",
   ],
 
+  icons: {
+    icon: "/favicon.ico",       
+    shortcut: "/favicon.ico",  
+    apple: "/favicon.ico",      
+  },
+
   openGraph: {
     title: "Expert Dental Care in Bengaluru | MaxAlign Dental",
     description:
