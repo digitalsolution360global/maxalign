@@ -90,7 +90,7 @@ export default function ContactSection() {
             type="text"
             placeholder="Your Name"
             required
-            className="p-4 rounded-xl border bg-gray-50"
+            className="p-4 rounded-xl  text-black border bg-gray-50"
           />
 
           <input
@@ -100,7 +100,7 @@ export default function ContactSection() {
             type="email"
             placeholder="Your Email"
             required
-            className="p-4 rounded-xl border bg-gray-50"
+            className="p-4 rounded-xl  text-black border bg-gray-50"
           />
 
           <input
@@ -109,7 +109,7 @@ export default function ContactSection() {
             onChange={handleChange}
             type="text"
             placeholder="Subject"
-            className="p-4 rounded-xl border bg-gray-50"
+            className="p-4 rounded-xl  text-black border bg-gray-50"
           />
 
           <textarea
@@ -119,7 +119,7 @@ export default function ContactSection() {
             rows={6}
             required
             placeholder="Your Message"
-            className="p-4 rounded-xl border bg-gray-50"
+            className="p-4 rounded-xl  text-black border bg-gray-50"
           />
 
           <button

@@ -81,13 +81,13 @@ export default function AppointmentSection() {
             className="grid grid-cols-1 md:grid-cols-2 gap-6"
             onSubmit={handleSubmit}
           >
-            <input name="name" value={formData.name} onChange={handleChange} required placeholder="Full Name" className="p-4 rounded-xl border" />
-            <input name="email" value={formData.email} onChange={handleChange} type="email" placeholder="Email" className="p-4 rounded-xl border" />
-            <input name="phone" value={formData.phone} onChange={handleChange} required placeholder="Phone" className="p-4 rounded-xl border" />
-            <input name="date" value={formData.date} onChange={handleChange} type="date" required className="p-4 rounded-xl border" />
-            <input name="time" value={formData.time} onChange={handleChange} type="time" required className="p-4 rounded-xl border" />
+            <input name="name" value={formData.name} onChange={handleChange} required placeholder="Full Name" className="p-4 text-black rounded-xl border" />
+            <input name="email" value={formData.email} onChange={handleChange} type="email" placeholder="Email" className="p-4  text-black rounded-xl border" />
+            <input name="phone" value={formData.phone} onChange={handleChange} required placeholder="Phone" className="p-4  text-black rounded-xl border" />
+            <input name="date" value={formData.date} onChange={handleChange} type="date" required className="p-4  text-black rounded-xl border" />
+            <input name="time" value={formData.time} onChange={handleChange} type="time" required className="p-4  text-black rounded-xl border" />
 
-            <select name="service" value={formData.service} onChange={handleChange} required className="p-4 rounded-xl border">
+            <select name="service" value={formData.service} onChange={handleChange} required className="p-4  text-black rounded-xl border">
               <option value="">Select Service</option>
               <option>Orthodontic Treatment</option>
               <option>Teeth Whitening</option>
@@ -102,7 +102,7 @@ export default function AppointmentSection() {
               value={formData.message}
               onChange={handleChange}
               placeholder="Additional Message"
-              className="p-4 rounded-xl border md:col-span-2"
+              className="p-4 rounded-xl border  text-black md:col-span-2"
             />
 
             <button
