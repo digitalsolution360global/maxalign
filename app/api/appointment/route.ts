@@ -19,7 +19,28 @@ export async function POST(req: Request) {
         { status: 400 }
       );
     }
+const crmRes = await fetch(
+      "https://crm-maxalign.vercel.app/api/appointment/add",
+      {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          name,
+          email,
+          phone,
+          date,
+          time,
+          service,
+          message,
+        }),
+      }
+    );
 
+    if (!crmRes.ok) {
+      console.error("CRM API failed");
+    }
     const transporter = nodemailer.createTransport({
       service: "gmail",
       auth: {
@@ -44,28 +65,6 @@ export async function POST(req: Request) {
         <p><strong>Message:</strong> ${message || "N/A"}</p>
       `,
     });
-    const crmRes = await fetch(
-      "https://crm-maxalign.vercel.app/api/appointment/add",
-      {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          name,
-          email,
-          phone,
-          date,
-          time,
-          service,
-          message,
-        }),
-      }
-    );
-
-    if (!crmRes.ok) {
-      console.error("CRM API failed");
-    }
 
     return NextResponse.json({ success: true });
   } catch (error) {
