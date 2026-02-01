@@ -33,7 +33,7 @@ export default function BlogSection() {
       title: " The 7 Best Dental Care Hacks To Maintain a Healthy Smile This Winter",
       desc: "Winter has a tendency of transforming day-to-day habits ....",
       img: "/assets/blogs/b1.jpg",
-      link: "/blogs/WinterDentalCareBlog",
+      link: "/blogs/winter-dental-care",
     },
      {
       title: "Common Dental Problems in Bangalore and How to Prevent Them",
