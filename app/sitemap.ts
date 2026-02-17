@@ -73,7 +73,42 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.7,
     },
-
+     {
+      url: `${baseUrl}/blogs/max-align-best-dental-clinic`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    },
+{
+      url: `${baseUrl}/blogs/professional-teeth-whitening`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    },
+{
+      url: `${baseUrl}/blogs/importance-of-dental-checkups`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    },
+{
+      url: `${baseUrl}/blogs/teeth-whitening`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    },
+{
+      url: `${baseUrl}/blogs/winter-dental-care`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    },
+{
+      url: `${baseUrl}/blogs/common-dental-problems-in-Bangalore`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    },
     {
       url: `${baseUrl}/drprofile`,
       lastModified: new Date(),
