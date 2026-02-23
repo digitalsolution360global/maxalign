@@ -4,6 +4,14 @@ import AffordableDental from "./AffordableDental";
 export const metadata = {
   description:
     "Affordable dental care in Bangalore offering cavity treatment, gum disease treatment and dental implants with quality and comfort",
+  openGraph: {
+    description:
+      "Affordable dental care in Bangalore offering cavity treatment, gum disease treatment and dental implants with quality and comfort",
+  },
+  twitter: {
+    description:
+      "Affordable dental care in Bangalore offering cavity treatment, gum disease treatment and dental implants with quality and comfort",
+  }
 };
 
 export default function Page() {
