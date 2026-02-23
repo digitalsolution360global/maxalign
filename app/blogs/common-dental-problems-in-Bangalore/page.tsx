@@ -2,6 +2,7 @@
 
 import Image from "next/image";
 import Link from "next/link";
+import Head from "next/head";
 
 export default function RegularDentalCheckups() {
   const latestBlogs = [
@@ -34,6 +35,20 @@ export default function RegularDentalCheckups() {
 
   return (
     <>
+      <Head>
+        <meta
+          name="description"
+          content="Explore common dental problems in Bangalore like cavities and gum disease, along with effective treatment and dental implant solutions"
+        />
+        <meta
+          property="og:description"
+          content="Explore common dental problems in Bangalore like cavities and gum disease, along with effective treatment and dental implant solutions"
+        />
+        <meta
+          name="twitter:description"
+          content="Explore common dental problems in Bangalore like cavities and gum disease, along with effective treatment and dental implant solutions"
+        />
+      </Head>
       {/* ===================== TOP BANNER ===================== */}
   <div className="bg-white">  
 <section
