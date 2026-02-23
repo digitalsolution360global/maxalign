@@ -1,7 +1,20 @@
-"use client";
+
 
 import Image from "next/image";
 import Link from "next/link";
+
+export const metadata = {
+  description:
+    "Learn how regular dental checkups help prevent cavities, gum disease and reduce the need for complex orthodontic treatment",
+  openGraph: {
+    description:
+      "Learn how regular dental checkups help prevent cavities, gum disease and reduce the need for complex orthodontic treatment",
+  },
+  twitter: {
+    description:
+      "Learn how regular dental checkups help prevent cavities, gum disease and reduce the need for complex orthodontic treatment",
+  }
+};
 
 export default function RegularDentalCheckups() {
   const latestBlogs = [
