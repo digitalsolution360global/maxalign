@@ -112,8 +112,8 @@ export default function Footer() {
         {/* Right: Designed & Developed */}
         <span>
           Designed & Developed by{" "}
-          <a href="https://digitalsolution.com" target="_blank" className="text-[#4EE0D4] hover:text-white transition">
-            Digitalsolution.com
+          <a href="https://www.digitalsolution360.com" target="_blank" className="text-[#4EE0D4] hover:text-white transition">
+            Digital Solution 360
           </a>
         </span>
       </div>
