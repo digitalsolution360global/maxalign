@@ -25,27 +25,27 @@ export async function POST(req: Request) {
         ? `${time}:00`
         : time;
 
-    const crmRes = await fetch(
-      "https://crm-maxalign.vercel.app/api/appointment/add",
-      {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          name,
-          email,
-          phone,
-          date,
-          time: formattedTime,
-          service,
-          message,
-        }),
-      }
-    );
+    // const crmRes = await fetch(
+    //   "https://crm-maxalign.vercel.app/api/appointment/add",
+    //   {
+    //     method: "POST",
+    //     headers: { "Content-Type": "application/json" },
+    //     body: JSON.stringify({
+    //       name,
+    //       email,
+    //       phone,
+    //       date,
+    //       time: formattedTime,
+    //       service,
+    //       message,
+    //     }),
+    //   }
+    // );
     
 
-    if (!crmRes.ok) {
-      console.error("CRM API failed:", await crmRes.text());
-    }
+    // if (!crmRes.ok) {
+    //   console.error("CRM API failed:", await crmRes.text());
+    // }
 
     const transporter = nodemailer.createTransport({
       service: "gmail",
@@ -58,7 +58,7 @@ export async function POST(req: Request) {
     await transporter.sendMail({
       from: `"Appointment Request" <${process.env.GMAIL_USER}>`,
       replyTo: email,
-      to: `${process.env.GMAIL_USER}, maxaligndental@gmail.com`,
+      to: `arpitkumar994@gmail.com,arpitkuma27593@gmail.com`,
       subject: `New Appointment Booking - ${service}`,
       html: `
         <h2>New Appointment Request</h2>
