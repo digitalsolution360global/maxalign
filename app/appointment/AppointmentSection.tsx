@@ -39,7 +39,7 @@ export default function AppointmentSection() {
       setLoading(false);
 
       if (data.success) {
-        setStatus("✅ Appointment booked successfully!");
+        // setStatus("✅ Appointment booked successfully!");
         setFormData({
           name: "",
           email: "",
@@ -49,6 +49,7 @@ export default function AppointmentSection() {
           service: "",
           message: "",
         });
+        window.location.href = '/thank-you';
       } else {
         setStatus("❌ Failed to book appointment.");
       }
