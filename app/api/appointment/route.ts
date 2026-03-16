@@ -56,12 +56,12 @@ export async function POST(req: Request) {
     });
 
     await transporter.sendMail({
-      from: `"Appointment Request" <${process.env.GMAIL_USER}>`,
+      from: `"Maxalign Dental Appointment Request" <${process.env.GMAIL_USER}>`,
       replyTo: email,
-      to: `arpitkumar994@gmail.com,arpitkuma27593@gmail.com`,
-      subject: `New Appointment Booking - ${service}`,
+      to: `${process.env.GMAIL_USER},maxaligndental@gmail.com`,
+      subject: `New Maxalign Dental Appointment Booking - ${service}`,
       html: `
-        <h2>New Appointment Request</h2>
+        <h2>New Maxalign Dental Appointment Request</h2>
         <p><strong>Name:</strong> ${name}</p>
         <p><strong>Email:</strong> ${email}</p>
         <p><strong>Phone:</strong> ${phone}</p>
