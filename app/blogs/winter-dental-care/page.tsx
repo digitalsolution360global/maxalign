@@ -89,7 +89,7 @@ export default function WinterDentalCareBlog() {
                   promote corruption. Consume vegetables that are high in fiber,
                   milk, and warm soups that help in feeding the teeth. Whole grain
                   foods contribute to dental health that the residents of
-                  Bangalore turn on to keep the teeth healthy and enamel clean
+                  <Link className="underline" href="https://en.wikipedia.org/wiki/Bengaluru" target="_blank">Bangalore</Link> turn on to keep the teeth healthy and enamel clean
                   and fresh in between seasons.
                 </p>
 
