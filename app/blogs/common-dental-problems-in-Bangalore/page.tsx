@@ -98,7 +98,7 @@ export default function RegularDentalCheckups() {
             </p>
 
             <p>
-              The good news? This is because most of the dental issues can be avoided entirely through proper oral care and regular check-ups in a family dental clinic in Bangalore such as<Link href="/"> MaxAlign Dental</Link>.
+              The good news? This is because most of the dental issues can be avoided entirely through proper oral care and regular check-ups in a family dental clinic in Bangalore such as<Link className="underline" href="/"> MaxAlign Dental</Link>.
             </p>
 
             <p>
