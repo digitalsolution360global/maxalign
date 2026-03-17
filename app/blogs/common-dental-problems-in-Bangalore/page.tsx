@@ -86,7 +86,7 @@ export default function RegularDentalCheckups() {
 
             <p className="italic">
               <strong>Meta Description:</strong><br />
-              We have listed the most prevalent dental issues in <Link className="underline" href="https://en.wikipedia.org/wiki/Bengaluru" target="_blank">Bangalore</Link> such as tooth decay and gum disease and how preventive dentistry and professional dental treatment in <Link className="underline" href="/">MaxAlign Dental</Link> can ensure your smile is healthy.
+              We have listed the most prevalent dental issues in Bangalore such as tooth decay and gum disease and how preventive dentistry and professional dental treatment in MaxAlign Dental can ensure your smile is healthy.
             </p>
 
             <h2 className="text-2xl font-semibold text-gray-900">
@@ -94,11 +94,11 @@ export default function RegularDentalCheckups() {
             </h2>
 
             <p>
-              The busy life and lifestyle of Bangalore, the shift in food habits, stress, and infrequent visits to dental clinics have contributed to the apparent increase in dental issues in Bangalore. Tooth decay to the gum disease, there are a lot of oral diseases that quietly put pressure on people, provided they are not taken care of.
+              The busy life and lifestyle of <Link className="underline" href="https://en.wikipedia.org/wiki/Bengaluru" target="_blank">Bangalore</Link>, the shift in food habits, stress, and infrequent visits to dental clinics have contributed to the apparent increase in dental issues in Bangalore. Tooth decay to the gum disease, there are a lot of oral diseases that quietly put pressure on people, provided they are not taken care of.
             </p>
 
             <p>
-              The good news? This is because most of the dental issues can be avoided entirely through proper oral care and regular check-ups in a family dental clinic in Bangalore such as MaxAlign Dental.
+              The good news? This is because most of the dental issues can be avoided entirely through proper oral care and regular check-ups in a family dental clinic in Bangalore such as<Link href="/"> MaxAlign Dental</Link>.
             </p>
 
             <p>
