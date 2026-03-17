@@ -102,7 +102,7 @@ export default function RegularDentalCheckups() {
             </h2>
 
             <p>
-              If you're considering long-term solutions like dental implants,
+              If you're considering long-term solutions like <Link href="/services/dental-implants">dental implants</Link>,
               regular dental visits ensure that your gums and jawbone remain
               healthy enough to support implants in the future. As a trusted{" "}
               <strong>dental implant clinic in Marathahalli</strong>, we always
