@@ -47,14 +47,14 @@ export default function WhiteningBlog() {
 
               <p>
                 <strong>Reveal a Brighter, More Confident Smile</strong><br /><br />
-                At <Link href="/">Max Align Dental Clinic</Link>, we believe that a healthy, white smile can transform your appearance and boost your confidence.
+                At <Link className="underline" href="/">Max Align Dental Clinic</Link>, we believe that a healthy, white smile can transform your appearance and boost your confidence.
                 Our professional teeth whitening in Marathahalli offers a safe, effective, and dentist-supervised solution to remove years of stains —
                 delivering visible results in just one session.
               </p>
 
               <h3 className="text-2xl font-bold text-[#0B7A75]">What is Teeth Whitening?</h3>
               <p>
-                <Link href="/blogs/professional-teeth-whitening">Teeth whitening</Link> is a cosmetic dental procedure that lightens the color of your teeth by removing surface stains and deep discoloration.
+                <Link className="underline" href="/blogs/professional-teeth-whitening">Teeth whitening</Link> is a cosmetic dental procedure that lightens the color of your teeth by removing surface stains and deep discoloration.
                 It’s safe, effective and designed to give you a bright, youthful smile.
               </p>
 

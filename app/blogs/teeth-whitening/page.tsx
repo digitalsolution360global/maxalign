@@ -47,7 +47,7 @@ export default function WhiteningBlog() {
                   Introduction
                 </h3>
                 <p>
-                  The season of winter brings a relief to <Link href="https://en.wikipedia.org/wiki/Bengaluru" target="_blank">Bangalore</Link> and it is
+                  The season of winter brings a relief to <Link className="underline" href="https://en.wikipedia.org/wiki/Bengaluru" target="_blank">Bangalore</Link> and it is
                   also the right moment to pay attention to the aesthetics of
                   the dentures. Seasonal benefits are the ones that many persons
                   fail to consider during organization of treatments. But, to
@@ -92,7 +92,7 @@ export default function WhiteningBlog() {
                   Professional Skill and High-level Patient Care
                 </h3>
                 <p>
-                  To select professional <Link href="/services/teeth-whitening">teeth whitening</Link> in Bangalore can be
+                  To select professional <Link className="underline" href="/services/teeth-whitening">teeth whitening</Link> in Bangalore can be
                   considered as a safe and effective outcome. Techniques
                   employed in the clinics are highly advanced and give uniform
                   improvement of shade without harming the health of the

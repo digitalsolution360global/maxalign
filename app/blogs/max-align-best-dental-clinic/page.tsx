@@ -86,13 +86,13 @@ export default function DentalCheckupBlog() {
               </p>
 
               <p>
-              At Maxalign Dental, we believe a healthy smile is a reflection of a healthy life. Whether you are looking for routine care or advanced treatment from a gum disease specialist in <Link href="https://en.wikipedia.org/wiki/Marathahalli"  target="_blank">Marathahalli</Link>, Bengaluru, regular visits play a crucial role in keeping your oral health in check.
+              At Maxalign Dental, we believe a healthy smile is a reflection of a healthy life. Whether you are looking for routine care or advanced treatment from a gum disease specialist in <Link className="underline" href="https://en.wikipedia.org/wiki/Marathahalli"  target="_blank">Marathahalli</Link>, Bengaluru, regular visits play a crucial role in keeping your oral health in check.
               </p>
 
               <h3 className="text-2xl font-bold text-[#0B7A75]">Thinking About Cosmetic or Implant Treatment?</h3>
 
               <p>
-              If you are considering long-term solutions like dental implants, staying on top of your dental health is essential. At <Link href="/">Maxalign Dental</Link>, a trusted dental implant clinic in Marathahalli, we always recommend regular check-ups to ensure your gums and bone structure remain healthy enough to support implants if ever needed.
+              If you are considering long-term solutions like dental implants, staying on top of your dental health is essential. At <Link className="underline" href="/">Maxalign Dental</Link>, a trusted dental implant clinic in Marathahalli, we always recommend regular check-ups to ensure your gums and bone structure remain healthy enough to support implants if ever needed.
               </p>
 
               <p>

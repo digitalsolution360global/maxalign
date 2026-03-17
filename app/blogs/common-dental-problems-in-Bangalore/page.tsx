@@ -86,7 +86,7 @@ export default function RegularDentalCheckups() {
 
             <p className="italic">
               <strong>Meta Description:</strong><br />
-              We have listed the most prevalent dental issues in <Link href="https://en.wikipedia.org/wiki/Bengaluru" target="_blank">Bangalore</Link> such as tooth decay and gum disease and how preventive dentistry and professional dental treatment in <Link href="/">MaxAlign Dental</Link> can ensure your smile is healthy.
+              We have listed the most prevalent dental issues in <Link className="underline" href="https://en.wikipedia.org/wiki/Bengaluru" target="_blank">Bangalore</Link> such as tooth decay and gum disease and how preventive dentistry and professional dental treatment in <Link className="underline" href="/">MaxAlign Dental</Link> can ensure your smile is healthy.
             </p>
 
             <h2 className="text-2xl font-semibold text-gray-900">
