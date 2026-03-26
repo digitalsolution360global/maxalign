@@ -110,6 +110,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.7,
     },
     {
+      url: `${baseUrl}/blogs/best-cosmetic-dentist-bangalore`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    },
+    {
       url: `${baseUrl}/drprofile`,
       lastModified: new Date(),
       changeFrequency: 'yearly',
