@@ -63,7 +63,9 @@ export default function BestCosmeticBlog() {
   const toggleFAQ = (index: number) => {
     setOpenIndex(openIndex === index ? null : index);
   };
-  const blogDate = "03 Mar 2026";
+  const blogDate = {
+  date: "03 Mar 2026"
+};
 
   return (
     <>
@@ -98,7 +100,7 @@ export default function BestCosmeticBlog() {
             <div className="p-10">
             <div className="flex items-center text-gray-500 gap-6 text-sm mb-6">
               <span>👤 Admin</span>
-              <span>📅 {blogDate}</span>
+              <span>📅 03 Mar 2026</span>
             </div>
 
 
