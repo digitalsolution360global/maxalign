@@ -100,7 +100,7 @@ export default function BestCosmeticBlog() {
             <div className="p-10">
             <div className="flex items-center text-gray-500 gap-6 text-sm mb-6">
               <span>👤 Admin</span>
-              <span>📅 03 Mar 2026</span>
+              <span>📅 26 Mar 2026</span>
             </div>
  
 
