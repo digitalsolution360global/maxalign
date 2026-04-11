@@ -104,7 +104,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.7,
     },
 {
-      url: `${baseUrl}/blogs/common-dental-problems-in-Bangalore`,
+      url: `${baseUrl}/blogs/common-dental-problems-Bangalore`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,
