@@ -6,7 +6,7 @@ export const metadata = {
   title: "About MaxAlign Dental | Dental Care in Marathahalli",
   description:
     "Learn more about MaxAlign Dental’s expert team, patient care philosophy, and commitment to quality dental solutions.",
-
+ 
   keywords: [
     "MaxAlign Dental",
     "Dental Clinic in Marathahalli",
