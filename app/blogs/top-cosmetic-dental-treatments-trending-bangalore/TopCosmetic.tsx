@@ -77,7 +77,7 @@ export default function TopCosmeticBlog() {
 >
   <div className="text-center px-6 max-w-7xl mx-auto">
     <h1 className="text-3xl md:text-5xl font-bold text-white drop-shadow-xl leading-tight">
-           How To Choose The Right Dentist for Cosmetic Dentistry in Bangalore
+           Top Cosmetic Dental Treatments Trending in Bangalore
           </h1>
         </div>
       </section>

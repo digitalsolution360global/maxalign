@@ -6,6 +6,12 @@ import Link from "next/link";
 export default function BlogSection() {
   const blogs = [
     {
+      title: " Top Cosmetic Dental Treatments Trending in Bangalore",
+      desc: "Cosmetic dentistry is no longer a fashion, as it evolves as a beauty-upgrade option for many...",
+      img: "/assets/blogs/b1.jpg",
+       link: "/blogs/top-cosmetic-dental-treatments-trending-bangalore",
+    },
+    {
       title: "Why Max Align is one of the Best Dental Clinics in Marathahalli",
       desc: "Finding the right dental clinic can be a challenge. Here is why Max Align stands out...",
       img: "/assets/blogs/b1.jpg",
