@@ -6,6 +6,12 @@ import Link from "next/link";
 export default function BlogSection() {
   const blogs = [
     {
+      title: "Laser Dentistry Benefits for Pain-Free Treatment in Bangalore",
+      desc: "In recent days, the impact of dental drills and other effective procedures is getting more attention...",
+      img: "/assets/blogs/b1.jpg",
+       link: "/blogs/laser-dentistry-benefits-for-pain-free-treatment-in-bangalore",
+    },
+    {
       title: " Top Cosmetic Dental Treatments Trending in Bangalore",
       desc: "Cosmetic dentistry is no longer a fashion, as it evolves as a beauty-upgrade option for many...",
       img: "/assets/blogs/b1.jpg",
