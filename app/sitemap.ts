@@ -128,6 +128,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.7,
     },
     {
+      url: `${baseUrl}/blogs/laser-dentistry-benefits-for-pain-free-treatment-in-bangalore`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    },
+    {
       url: `${baseUrl}/drprofile`,
       lastModified: new Date(),
       changeFrequency: 'yearly',
