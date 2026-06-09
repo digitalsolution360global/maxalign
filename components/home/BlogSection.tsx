@@ -6,6 +6,12 @@ import Link from "next/link";
 export default function BlogSection() {
   const blogs = [
     {
+      title: "Dental Implants vs Bridges: Which is the Best Option in Bangalore",
+      desc: "Losing a permanent tooth is not a comfortable decision. This won’t let you laugh freely or enjoy...",
+      img: "/assets/blogs/b1.jpg",
+       link: "/blogs/dental-implants-vs-bridges-best-option-bangalore-maxalign",
+    },
+    {
       title: "Laser Dentistry Benefits for Pain-Free Treatment in Bangalore",
       desc: "In recent days, the impact of dental drills and other effective procedures is getting more attention...",
       img: "/assets/blogs/b1.jpg",
