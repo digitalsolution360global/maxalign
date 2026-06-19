@@ -90,7 +90,7 @@ export default function LaserDentistry() {
     <article className="md:col-span-2 bg-white rounded-xl shadow-lg border border-gray-200 overflow-hidden">
       <div className="overflow-hidden">
         <Image
-          src="/assets/blogs/b1.jpg"
+          src="/assets/blogs/laser-dentistry-benefits-for-pain-free-treatment-in-bangalore.webp"
           alt="Featured Blog"
           width={900}
           height={450}
