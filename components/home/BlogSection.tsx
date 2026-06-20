@@ -6,6 +6,12 @@ import Link from "next/link";
 export default function BlogSection() {
   const blogs = [
     {
+      title: "The Ultimate Guide to Choosing a Dentist in Bangalore ",
+      desc: "The right dentist in Bangalore can transform your oral health. Improper care may affect your overall...",
+      img: "/assets/blogs/dental-implants-vs-bridges-best-option-bangalore-maxalign.webp",
+       link: "/blogs/ultimate-guide-to-choosing-a-dentist-in-bangalore",
+    },
+    {
       title: "Dental Implants vs Bridges: Which is the Best Option in Bangalore",
       desc: "Losing a permanent tooth is not a comfortable decision. This won’t let you laugh freely or enjoy...",
       img: "/assets/blogs/dental-implants-vs-bridges-best-option-bangalore-maxalign.webp",
