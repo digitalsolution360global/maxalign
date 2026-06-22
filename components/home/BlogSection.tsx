@@ -32,37 +32,37 @@ export default function BlogSection() {
     {
       title: "Why Max Align is one of the Best Dental Clinics in Marathahalli",
       desc: "Finding the right dental clinic can be a challenge. Here is why Max Align stands out...",
-      img: "/assets/blogs/b1.jpg",
+      img: "/assets/blogs/max-align-best-dental-clinic.webp",
        link: "/blogs/max-align-best-dental-clinic",
     },
     {
       title: "Top 5 Benefits of Professional Teeth Whitening",
       desc: "Reveal a brighter, more confident smile with safe and long-lasting whitening...",
-      img: "/assets/blogs/b2.jpg",
+      img: "/assets/blogs/professional-teeth-whitening.webp",
       link: "/blogs/professional-teeth-whitening",
     },
     {
       title: "The Importance of Regular Dental Check-Ups",
       desc: "Skipping dental visits? Here’s why regular check-ups are essential...",
-      img: "/assets/blogs/b3.jpg",
+      img: "/assets/blogs/importance-of-dental-checkups.webp",
       link: "/blogs/importance-of-dental-checkups",
     },
     {
       title: "Why Winter is the Best Time to Have Teeth Whitening in Bangalore",
       desc: "The season of winter brings a relief to Bangalore and it is ...",
-      img: "/assets/blogs/b2.jpg",
+      img: "/assets/blogs/teeth-whitening.webp",
       link: "/blogs/teeth-whitening",
     },
     {
       title: " The 7 Best Dental Care Hacks To Maintain a Healthy Smile This Winter",
       desc: "Winter has a tendency of transforming day-to-day habits ....",
-      img: "/assets/blogs/b1.jpg",
+      img: "/assets/blogs/winter-dental-care.webp",
       link: "/blogs/winter-dental-care",
     },
      {
       title: "Common Dental Problems in Bangalore and How to Prevent Them",
       desc: "The busy life and lifestyle of Bangalore, the shift...",
-      img: "/assets/blogs/b1.jpg",
+      img: "/assets/blogs/common-dental-problems-bangalore.webp",
       link: "/blogs/common-dental-problems-bangalore",
     },
   
