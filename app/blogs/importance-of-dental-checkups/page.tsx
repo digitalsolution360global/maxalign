@@ -73,7 +73,7 @@ export default function RegularDentalCheckups() {
           <article className="bg-white rounded-xl shadow-lg border border-gray-200 overflow-hidden">
             <div className="overflow-hidden">
               <Image
-                src="/assets/blogs/b3.jpg"
+                src="/assets/blogs/importance-of-dental-checkups.webp"
                 alt="Regular Dental Check-ups"
                 width={900}
                 height={450}

@@ -63,7 +63,7 @@ export default function WhiteningBlog() {
           <article className="md:col-span-2 bg-white rounded-xl shadow-lg border border-gray-200 overflow-hidden">
             <div className="overflow-hidden">
               <Image
-                src="/assets/blogs/b2.jpg"
+                src="/assets/blogs/professional-teeth-whitening.webp"
                 alt="Professional Teeth Whitening"
                 width={900}
                 height={450}

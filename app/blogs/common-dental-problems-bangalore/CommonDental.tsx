@@ -90,7 +90,7 @@ export default function CommonDentalBlog() {
           <article className="md:col-span-2 bg-white rounded-xl shadow-lg border border-gray-200 overflow-hidden">
             <div className="overflow-hidden">
               <Image
-                src="/assets/blogs/b1.jpg"
+                src="/assets/blogs/common-dental-problems-bangalore.webp"
                 alt="Featured Blog"
                 width={900}
                 height={450}
