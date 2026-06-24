@@ -200,15 +200,15 @@ export default function RootLayout({
 }
   return (
     <html lang="en">
+      <head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(schema),
+          }}
+        />
+      </head>
       <body>
-        <head>
-          <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify(schema),
-        }}
-      />
-        </head>
         <Header />
 
         <main>{children}</main>

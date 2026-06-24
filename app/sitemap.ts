@@ -98,7 +98,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.7,
     },
 {
-      url: `${baseUrl}/blogs/winter-dental-care`,
+      url: `${baseUrl}/blogs/top-7-dental-care-tips-to-keep-your-smile-healthy-this-winter`,
       lastModified: new Date(),
       changeFrequency: 'monthly',
       priority: 0.7,

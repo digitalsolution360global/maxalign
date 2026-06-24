@@ -54,14 +54,14 @@ export default function BlogSection() {
       link: "/blogs/teeth-whitening",
     },
     {
-      title: " The 7 Best Dental Care Hacks To Maintain a Healthy Smile This Winter",
-      desc: "Winter has a tendency of transforming day-to-day habits ....",
+      title: "Top 7 Dental Care Tips To Keep Your Smile Healthy This Winter",
+      desc: "Healthy teeth in winter isn’t a choice but a commitment towards your oral hygiene. Navigating new challenges is the key...",
       img: "/assets/blogs/winter-dental-care.webp",
-      link: "/blogs/winter-dental-care",
+      link: "/blogs/top-7-dental-care-tips-to-keep-your-smile-healthy-this-winter",
     },
      {
       title: "Common Dental Problems in Bangalore and How to Prevent Them",
-      desc: "The busy life and lifestyle of Bangalore, the shift...",
+      desc: "Prevention is always the right way to treat any type of dental problem. At a trusted dental care, dentists provide the best methods...",
       img: "/assets/blogs/common-dental-problems-bangalore.webp",
       link: "/blogs/common-dental-problems-bangalore",
     },
