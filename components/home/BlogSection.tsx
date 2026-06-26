@@ -65,8 +65,12 @@ export default function BlogSection() {
       img: "/assets/blogs/common-dental-problems-bangalore.webp",
       link: "/blogs/common-dental-problems-bangalore",
     },
-  
-    
+    {
+      title: "How Technology is Changing Dentistry in Bangalore: From AI to Laser Treatments",
+      desc: "At Max Align Dental Clinic, we leverage advanced dental technology Bangalore residents deserve—from AI diagnostics to 3D scanning and laser treatments...",
+      img: "/assets/blogs/laser-dentistry-benefits-for-pain-free-treatment-in-bangalore.webp",
+      link: "/blogs/dental-technology-bangalore-ai-laser-treatments",
+    },
   ];
 
   return (
