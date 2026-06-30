@@ -71,6 +71,12 @@ export default function BlogSection() {
       img: "/assets/blogs/laser-dentistry-benefits-for-pain-free-treatment-in-bangalore.webp",
       link: "/blogs/dental-technology-bangalore-ai-laser-treatments",
     },
+    {
+      title: "Do's and Don'ts After Teeth Whitening: Expert Tips from Bangalore Dentists",
+      desc: "Discover critical post whitening care tips from premium dentists at Max Align. Maintain your bright, white smile safely with our expert advice.",
+      img: "/assets/blogs/dos-and-donts-after-teeth-whitening-bangalore-dentist-tips.webp",
+      link: "/blogs/dos-and-donts-after-teeth-whitening-bangalore-dentist-tips",
+    },
   ];
 
   return (
