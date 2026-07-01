@@ -152,6 +152,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.7,
     },
     {
+      url: `${baseUrl}/blogs/dos-and-donts-after-teeth-whitening-bangalore-dentist-tips`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    },
+    {
       url: `${baseUrl}/drprofile`,
       lastModified: new Date(),
       changeFrequency: 'yearly',
