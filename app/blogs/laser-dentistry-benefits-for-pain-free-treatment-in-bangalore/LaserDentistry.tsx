@@ -109,7 +109,7 @@ export default function LaserDentistry() {
             Why Laser Dentistry Bangalore is the Ultimate Solution for Dental Anxiety
           </h2>
           <p>
-            In recent days, the impact of dental drills and other effective procedures is getting more attention. Patients are keen to get the best dentistry without causing any pain. Then comes laser dentistry from the expert in Bangalore, <Link className="underline" href="/">MaxAlign</Link>.
+            In recent days, the impact of dental drills and other effective procedures is getting more attention. Patients are keen to get the best dentistry without causing any pain. Then comes laser dentistry from the expert in Bangalore, <Link className="underline text-[#0B7A75]" href="/">MaxAlign</Link>.
           </p>
 
           <p>
@@ -117,7 +117,7 @@ export default function LaserDentistry() {
           </p>
 
           <p>
-            The laser treatment is designed to reduce the risk of post-treatment sensitivity. It is time to make your smile “prominent” once again. <Link className="underline" href="/appointment">Schedule your laser whitening session at Max Align now!</Link>
+            The laser treatment is designed to reduce the risk of post-treatment sensitivity. It is time to make your smile “prominent” once again. <Link className="underline text-[#0B7A75]" href="/appointment">Schedule your laser whitening session at Max Align now!</Link>
           </p>
 
           <h3 className="text-2xl font-bold text-[#0B7A75]">
@@ -141,7 +141,7 @@ export default function LaserDentistry() {
           </ul>
 
           <p>
-            Experience laser dentistry Bangalore today – <Link className="underline" href="/contact">Book your consultation at Max Align!</Link>
+            Experience laser dentistry Bangalore today – <Link className="underline text-[#0B7A75]" href="/contact">Book your consultation at Max Align!</Link>
           </p>
 
           <h3 className="text-2xl font-bold text-[#0B7A75]">

@@ -115,11 +115,11 @@ A happy life is incomplete without proper oral healthcare and healthy teeth. How
 </p>
 
 <p>
-In an image-conscious city like <Link className="underline" href="https://en.wikipedia.org/wiki/Bengaluru" target="_blank">Bangalore</Link>, finding a trusted cosmetic dentist can be challenging. So, as an aware patient, it is always advised to find someone whom you can rely on. So, checking the track record of a dental clinic is important before being willing to get the transformative results.
+In an image-conscious city like <Link className="underline text-[#0B7A75]" href="https://en.wikipedia.org/wiki/Bengaluru" target="_blank">Bangalore</Link>, finding a trusted cosmetic dentist can be challenging. So, as an aware patient, it is always advised to find someone whom you can rely on. So, checking the track record of a dental clinic is important before being willing to get the transformative results.
 </p>
 
 <p>
-With <Link className="underline" href="/">MaxAlign</Link>, we built trust with our precious services and smile makeovers. It’s not just about transforming your teeth but keeping the dental aesthetics alive in the entire market. Whether you are looking for a healthy smile, you require the right treatment, starting from teeth reshaping, dental veneers, dental bonding, etc.
+With <Link className="underline text-[#0B7A75]" href="/">MaxAlign</Link>, we built trust with our precious services and smile makeovers. It’s not just about transforming your teeth but keeping the dental aesthetics alive in the entire market. Whether you are looking for a healthy smile, you require the right treatment, starting from teeth reshaping, dental veneers, dental bonding, etc.
 </p>
 
 <p>

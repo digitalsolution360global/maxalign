@@ -110,7 +110,7 @@ export default function ImplantVsBridges() {
           </p>
 
           <p>
-            At <Link className="underline" href="/">MaxAlign</Link>, we can determine which is better implants or bridges for your long-term health. We give our patients the care they need.
+            At <Link className="underline text-[#0B7A75]" href="/">MaxAlign</Link>, we can determine which is better implants or bridges for your long-term health. We give our patients the care they need.
           </p>
 
           <h3 className="text-2xl font-bold text-[#0B7A75]">
@@ -154,7 +154,7 @@ export default function ImplantVsBridges() {
             Dental Implants vs Bridges Cost in Bangalore: The Real Value Breakdown
           </h3>
 
-         <p>When examining the <Link href="/services/dental-implants" className="underline">dental implants vs bridges cost in Bangalore</Link>, MaxAlign Dental Clinic always balances everything between the initial upfront price and long-term maintenance costs.</p>
+         <p>When examining the <Link href="/services/dental-implants" className="underline text-[#0B7A75]">dental implants vs bridges cost in Bangalore</Link>, MaxAlign Dental Clinic always balances everything between the initial upfront price and long-term maintenance costs.</p>
 <p>Remember, the life of dental bridges is hardly close to 10 to 15 years. They will eventually need to be replaced.</p>
 <p>On the other hand, dental implants require higher upfront investment. Because they rarely require replacement, dentists at MaxAlign give a shot to their patients by delivering the most cost-effective and stress-free financial choice. Yes, the treatment lasts a 20- to 30-year period. </p>
 <p>At MaxAlign, you can avail transparent pricing and flexible EMI options to ensure your treatment remains entirely affordable. </p>
@@ -168,7 +168,7 @@ export default function ImplantVsBridges() {
           </p>
 
           <p>
-            If you seek a lifetime solution that protects your natural jaw structure, do <Link className="underline" href="/appointment">book your consultation now at MaxAlign</Link>. 
+            If you seek a lifetime solution that protects your natural jaw structure, do <Link className="underline text-[#0B7A75]" href="/appointment">book your consultation now at MaxAlign</Link>. 
           </p>
 
         </div>

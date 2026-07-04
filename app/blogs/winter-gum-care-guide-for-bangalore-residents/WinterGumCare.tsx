@@ -118,7 +118,7 @@ The drop in temperature is inevitable in different cases for many people living 
   To counter all the odds related to your gum health, MaxAlign Dental is the ultimate solution. Do not waste your time delaying treatment and accept seasonal treatment. 
 </p>
 <p>
-  During these months, bleeding <Link href="/services/gum-disease-treatment" className="underline">gums diseases</Link> occur often, too. Without a targeted oral care routine, these factors combine to create the perfect storm for early-stage gingivitis</p>
+  During these months, bleeding <Link href="/services/gum-disease-treatment" className="underline text-[#0B7A75]">gums diseases</Link> occur often, too. Without a targeted oral care routine, these factors combine to create the perfect storm for early-stage gingivitis</p>
 
 <p>
 <strong>Don’t Wait! Book a Winter Checkup at MaxAlign Dental and keep your gums glowing</strong>
@@ -156,7 +156,7 @@ When it comes to providing the <strong>oral care routine,</strong> we will sugge
 </ul>
 
 <p>
-<strong><Link href="/contact" className="underline">Consult us</Link> for a personalized care plan! Schedule your MaxAlign consultation and smile through the frost!</strong>
+<strong><Link href="/contact" className="underline text-[#0B7A75]">Consult us</Link> for a personalized care plan! Schedule your MaxAlign consultation and smile through the frost!</strong>
 </p>
 
 <h3 className="text-2xl font-bold text-[#0B7A75]">
@@ -179,7 +179,7 @@ When it comes to providing the <strong>oral care routine,</strong> we will sugge
   </ul>
 
   <p>
-    <Link href="tel:9321533345" className="underline">Book</Link> your affordable cleaning at MaxAlign Dental today!
+    <Link href="tel:9321533345" className="underline text-[#0B7A75]">Book</Link> your affordable cleaning at MaxAlign Dental today!
   </p>
 
   <h3 className="text-2xl font-bold text-[#0B7A75]">

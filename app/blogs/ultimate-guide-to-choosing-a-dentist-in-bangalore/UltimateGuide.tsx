@@ -120,17 +120,17 @@ answer: "The use of advanced tools like digital radiography, intraoral scanners,
           </h3>
 
           <p className="font-bold">A. Check Qualifications and Clinical Expertise </p>
-<p>Before the appointment, the patient should verify the credentials first. It is the first phase of how to choose the right dentist in Bangalore. A top-tier <Link href="/services" className="underline">dental clinic Bangalore</Link> houses diverse specialists under one roof.</p>
-<p>Yes, it is <Link href="/" className="underline">Max Align</Link> that has orthodontists, implantologists, and endodontists at one dental clinic. Whether it is about a routine checkup or complex smile design, we provide precise and evidence-based treatment.</p>
+<p>Before the appointment, the patient should verify the credentials first. It is the first phase of how to choose the right dentist in Bangalore. A top-tier <Link href="/services" className="underline text-[#0B7A75]">dental clinic Bangalore</Link> houses diverse specialists under one roof.</p>
+<p>Yes, it is <Link href="/" className="underline text-[#0B7A75]">Max Align</Link> that has orthodontists, implantologists, and endodontists at one dental clinic. Whether it is about a routine checkup or complex smile design, we provide precise and evidence-based treatment.</p>
 
-<p><Link href="tel:9321533345" className="underline">Consult our certified specialists right now for a personalized treatment plan!</Link></p>
+<p><Link href="tel:9321533345" className="underline text-[#0B7A75]">Consult our certified specialists right now for a personalized treatment plan!</Link></p>
 <p className="font-bold">B. Inspect Clinic Hygiene and Advanced Technology </p>
 <p>Never compromise on clinic hygiene. At Max Align, we have the state-of-the-art infrastructure. That’s how we can run the best facility. Each dentist at Max Align uses low-radiation digital X-rays, intraoral cameras, and painless laser tools. </p>
 <p>Excellent dental centers follow international sterilization protocols. At MaxAlign, we also maintain pristine surgical environments.Here, we absolute patient safety and eliminate cross-infection risks.</p>
 
 <p>Discover what world-class dental care feels like – Visit Max Align Dental now!</p>
 <p className="font-bold">C. Read Real Patient Reviews and Testimonials</p>
-<p>A <Link href="/gallery" className="underline">trusted dental clinic Bangalore</Link> will feature consistent support to its patients. At Max Align, we provide</p>
+<p>A <Link href="/gallery" className="underline text-[#0B7A75]">trusted dental clinic Bangalore</Link> will feature consistent support to its patients. At Max Align, we provide</p>
 
           <ul className="list-disc pl-6">
             <li>transparent pricing structure</li>
@@ -149,7 +149,7 @@ answer: "The use of advanced tools like digital radiography, intraoral scanners,
           </p>
 
           <p>
-            <Link href="/contact" className="underline">
+            <Link href="/contact" className="underline text-[#0B7A75]">
               Join a trusted dental clinic Bangalore healthy smile family today!
             </Link>
           </p>

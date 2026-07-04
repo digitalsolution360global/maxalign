@@ -4,7 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 
 export default function WhiteningBlog() {
-   const latestBlogs = [
+  const latestBlogs = [
     {
       title: "Top 5 Benefits of Professional Teeth Whitening",
       img: "/assets/blogs/b2.jpg",
@@ -29,7 +29,7 @@ export default function WhiteningBlog() {
       link: "/blogs/teeth-whitening",
       date: "08-07-2025"
     },
-     {
+    {
       title: " The 7 Best Dental Care Hacks To Maintain a Healthy Smile This Winter.",
       img: "/assets/blogs/b1.jpg",
       link: "/blogs/WinterDentalCareBlog",
@@ -49,9 +49,7 @@ export default function WhiteningBlog() {
               Why Winter is the Best Time to Have Teeth Whitening in Bangalore
             </h1>
 
-            <p className="text-gray-300 mt-4 text-lg md:text-xl">
-              Admin • 19 Jul 2025
-            </p>
+
           </div>
         </section>
 
@@ -70,176 +68,176 @@ export default function WhiteningBlog() {
                 />
               </div>
               <div className="p-10">
-              <h2 className="text-3xl md:text-4xl font-bold text-[#0B7A75] mb-6 leading-snug">
-                Why Winter is the Best Time to Have Teeth Whitening in Bangalore
-              </h2>
+                <h2 className="text-3xl md:text-4xl font-bold text-[#0B7A75] mb-6 leading-snug">
+                  Why Winter is the Best Time to Have Teeth Whitening in Bangalore
+                </h2>
 
-              <div className="prose prose-lg max-w-none text-gray-700 leading-relaxed space-y-6">
-                <h3 className="text-2xl font-bold text-[#0B7A75]">
-                  Introduction
-                </h3>
-                <p>
-                  The season of winter brings a relief to <Link className="underline" href="https://en.wikipedia.org/wiki/Bengaluru" target="_blank">Bangalore</Link> and it is
-                  also the right moment to pay attention to the aesthetics of
-                  the dentures. Seasonal benefits are the ones that many persons
-                  fail to consider during organization of treatments. But, to
-                  know the reason the winter is the best season to whiten your
-                  teeth will make you get better results at a greater comfort.
-                  This report describes why it is better to use the colder
-                  months to improve your smile, and have a friendly and
-                  professional outlook toward informed decision making.
-                </p>
+                <div className="prose prose-lg max-w-none text-gray-700 leading-relaxed space-y-6">
+                  <h3 className="text-2xl font-bold text-[#0B7A75]">
+                    Introduction
+                  </h3>
+                  <p>
+                    The season of winter brings a relief to <Link className="underline text-[#0B7A75]" href="https://en.wikipedia.org/wiki/Bengaluru" target="_blank">Bangalore</Link> and it is
+                    also the right moment to pay attention to the aesthetics of
+                    the dentures. Seasonal benefits are the ones that many persons
+                    fail to consider during organization of treatments. But, to
+                    know the reason the winter is the best season to whiten your
+                    teeth will make you get better results at a greater comfort.
+                    This report describes why it is better to use the colder
+                    months to improve your smile, and have a friendly and
+                    professional outlook toward informed decision making.
+                  </p>
 
-                <h3 className="text-2xl font-bold text-[#0B7A75]">
-                  Nature and Health in the Fall
-                </h3>
-                <p>
-                  The benefit of winter dental care is that it has decreased
-                  sensitivity. The chillier the weather is the more the
-                  inflammation is reduced and therefore the whitening procedure
-                  would be more comfortable. There is less irritation of the
-                  patients during and after the treatment. This season also
-                  contributes to quicker recovery and enables one to be able to
-                  do their daily activities without pain. Through professional
-                  advice, the cosmetic dentistry treatments will be easier and
-                  more comfortable in winter in Bangalore.
-                </p>
+                  <h3 className="text-2xl font-bold text-[#0B7A75]">
+                    Nature and Health in the Fall
+                  </h3>
+                  <p>
+                    The benefit of winter dental care is that it has decreased
+                    sensitivity. The chillier the weather is the more the
+                    inflammation is reduced and therefore the whitening procedure
+                    would be more comfortable. There is less irritation of the
+                    patients during and after the treatment. This season also
+                    contributes to quicker recovery and enables one to be able to
+                    do their daily activities without pain. Through professional
+                    advice, the cosmetic dentistry treatments will be easier and
+                    more comfortable in winter in Bangalore.
+                  </p>
 
-                <h3 className="text-2xl font-bold text-[#0B7A75]">
-                  Lifestyle Habits, which are supporting Whitening
-                </h3>
-                <p>
-                  During winter, there are certain habits connected with
-                  drinking less and less exposure to fresh air. These minor
-                  changes to lifestyle also contribute to the sustainability of
-                  dental cleaning and whitening outcomes. Individuals are also
-                  likely to consume less acidic substances which promote the
-                  safety of the enamel. Maintaining a simple oral hygiene in
-                  winter is a strategy that reinforces results and prevents the
-                  stains to come about sooner, as this time of the year is the
-                  best time to improve your smile.
-                </p>
+                  <h3 className="text-2xl font-bold text-[#0B7A75]">
+                    Lifestyle Habits, which are supporting Whitening
+                  </h3>
+                  <p>
+                    During winter, there are certain habits connected with
+                    drinking less and less exposure to fresh air. These minor
+                    changes to lifestyle also contribute to the sustainability of
+                    dental cleaning and whitening outcomes. Individuals are also
+                    likely to consume less acidic substances which promote the
+                    safety of the enamel. Maintaining a simple oral hygiene in
+                    winter is a strategy that reinforces results and prevents the
+                    stains to come about sooner, as this time of the year is the
+                    best time to improve your smile.
+                  </p>
 
-                <h3 className="text-2xl font-bold text-[#0B7A75]">
-                  Professional Skill and High-level Patient Care
-                </h3>
-                <p>
-                  To select professional <Link className="underline" href="/services/teeth-whitening">teeth whitening</Link> in Bangalore can be
-                  considered as a safe and effective outcome. Techniques
-                  employed in the clinics are highly advanced and give uniform
-                  improvement of shade without harming the health of the
-                  enamel. The best teeth whitening clinic is one that
-                  concentrates on personal care planning of treatment so that
-                  the treatment fits the individual needs. During winter, one
-                  can easily book appointments and concentrate on patients,
-                  providing them with detailed instructions on aftercare.
-                </p>
+                  <h3 className="text-2xl font-bold text-[#0B7A75]">
+                    Professional Skill and High-level Patient Care
+                  </h3>
+                  <p>
+                    To select professional <Link className="underline text-[#0B7A75]" href="/services/teeth-whitening">teeth whitening</Link> in Bangalore can be
+                    considered as a safe and effective outcome. Techniques
+                    employed in the clinics are highly advanced and give uniform
+                    improvement of shade without harming the health of the
+                    enamel. The best teeth whitening clinic is one that
+                    concentrates on personal care planning of treatment so that
+                    the treatment fits the individual needs. During winter, one
+                    can easily book appointments and concentrate on patients,
+                    providing them with detailed instructions on aftercare.
+                  </p>
 
-                <h3 className="text-2xl font-bold text-[#0B7A75]">
-                  Maintenance Benefits- Long Term
-                </h3>
-                <p>
-                  Winter restorations provide a good basis to the oral health in
-                  the long run. The summertime given to the procedure motivates
-                  patients to initiate an improved oral care ritual the year. It
-                  is easier to maintain results in case they are built up in
-                  winter. Patients will be able to smile brightly during
-                  festivals, events and social gatherings that will take place
-                  later in the months with the help of professionals.
-                </p>
+                  <h3 className="text-2xl font-bold text-[#0B7A75]">
+                    Maintenance Benefits- Long Term
+                  </h3>
+                  <p>
+                    Winter restorations provide a good basis to the oral health in
+                    the long run. The summertime given to the procedure motivates
+                    patients to initiate an improved oral care ritual the year. It
+                    is easier to maintain results in case they are built up in
+                    winter. Patients will be able to smile brightly during
+                    festivals, events and social gatherings that will take place
+                    later in the months with the help of professionals.
+                  </p>
 
-                <h3 className="text-2xl font-bold text-[#0B7A75]">
-                  Smile Planning and Cost Effectiveness
-                </h3>
-                <p>
-                  The reasonable cost of teeth whitening is also available in
-                  numerous clinics in Bangalore during winter thanks to the
-                  promotion schedule and adaptable treatment strategies. This
-                  will enable patients to whiten their teeth with other smile
-                  makeover services without straining their wallets.
-                  Premedical planning also saves time and effort as well as
-                  premedical treatments are not repeated and produce consistent
-                  results.
-                </p>
+                  <h3 className="text-2xl font-bold text-[#0B7A75]">
+                    Smile Planning and Cost Effectiveness
+                  </h3>
+                  <p>
+                    The reasonable cost of teeth whitening is also available in
+                    numerous clinics in Bangalore during winter thanks to the
+                    promotion schedule and adaptable treatment strategies. This
+                    will enable patients to whiten their teeth with other smile
+                    makeover services without straining their wallets.
+                    Premedical planning also saves time and effort as well as
+                    premedical treatments are not repeated and produce consistent
+                    results.
+                  </p>
 
-                <h3 className="text-2xl font-bold text-[#0B7A75]">
-                  This is why Bangalore residents will be the most benefited
-                </h3>
-                <p>
-                  Dental visits in Bangalore are stress free and comfortable due
-                  to moderate weather conditions in winter. Follow ups are
-                  easily attended with ease by the patients without any
-                  disruption due to weather. The health and dental care
-                  availability and well-trained professionals are also
-                  contributing to better treatment results. To pick the teeth
-                  whitening Bangalore services, it is better to choose it
-                  during winter, when the level of comfort, efficiency, and
-                  satisfaction is maximum.
-                </p>
+                  <h3 className="text-2xl font-bold text-[#0B7A75]">
+                    This is why Bangalore residents will be the most benefited
+                  </h3>
+                  <p>
+                    Dental visits in Bangalore are stress free and comfortable due
+                    to moderate weather conditions in winter. Follow ups are
+                    easily attended with ease by the patients without any
+                    disruption due to weather. The health and dental care
+                    availability and well-trained professionals are also
+                    contributing to better treatment results. To pick the teeth
+                    whitening Bangalore services, it is better to choose it
+                    during winter, when the level of comfort, efficiency, and
+                    satisfaction is maximum.
+                  </p>
 
-                <h3 className="text-2xl font-bold text-[#0B7A75]">
-                  From the Overview
-                </h3>
-                <p>
-                  Winter happens to be not only a nice period in Bangalore, but
-                  a good time to have dental works done. Whitening in winter is
-                  of great value with low levels of sensitivity, favourable
-                  lifestyle practices, professional care and long term
-                  advantages. With the proper selection of clinic and healthy
-                  habits, the patient will be able to have a healthy smile that
-                  will continue well after the season.
-                </p>
+                  <h3 className="text-2xl font-bold text-[#0B7A75]">
+                    From the Overview
+                  </h3>
+                  <p>
+                    Winter happens to be not only a nice period in Bangalore, but
+                    a good time to have dental works done. Whitening in winter is
+                    of great value with low levels of sensitivity, favourable
+                    lifestyle practices, professional care and long term
+                    advantages. With the proper selection of clinic and healthy
+                    habits, the patient will be able to have a healthy smile that
+                    will continue well after the season.
+                  </p>
 
-                <h3 className="text-2xl font-bold text-[#0B7A75]">
-                  Additional Care Guidance
-                </h3>
-                <p>
-                  Treatment is advised to maintain brightness by taking the
-                  advice of professionals after treatment. Such basic
-                  precautions like healthy diets, frequent examinations, and
-                  conscious ways of eating can help to greatly lengthen the
-                  outcomes. Applying the products suggested by a dentist and
-                  receiving regular assessments are beneficial in order to
-                  identify issues at the earliest stage. This is preventive,
-                  which is beneficial to the overall health of the teeth and
-                  enhances self-esteem. In terms of timely treatment and
-                  seasonal benefits, the patient will be able to experience the
-                  benefits and comfort, as well as stability. This innovative
-                  thinking will make the ordinary dental visits into a
-                  fulfilling one with every patient willing to keep up with the
-                  self care and satisfaction throughout the year with
-                  confidence.
-                </p>
-              </div>
+                  <h3 className="text-2xl font-bold text-[#0B7A75]">
+                    Additional Care Guidance
+                  </h3>
+                  <p>
+                    Treatment is advised to maintain brightness by taking the
+                    advice of professionals after treatment. Such basic
+                    precautions like healthy diets, frequent examinations, and
+                    conscious ways of eating can help to greatly lengthen the
+                    outcomes. Applying the products suggested by a dentist and
+                    receiving regular assessments are beneficial in order to
+                    identify issues at the earliest stage. This is preventive,
+                    which is beneficial to the overall health of the teeth and
+                    enhances self-esteem. In terms of timely treatment and
+                    seasonal benefits, the patient will be able to experience the
+                    benefits and comfort, as well as stability. This innovative
+                    thinking will make the ordinary dental visits into a
+                    fulfilling one with every patient willing to keep up with the
+                    self care and satisfaction throughout the year with
+                    confidence.
+                  </p>
+                </div>
               </div>
             </article>
 
             {/* RIGHT SIDEBAR */}
-           <aside className="space-y-8">
-            <div className="bg-white shadow-lg rounded-xl p-6 border">
-              <h3 className="text-2xl font-bold text-[#0B7A75] mb-4">
-                Latest Blogs
-              </h3>
+            <aside className="space-y-8">
+              <div className="bg-white shadow-lg rounded-xl p-6 border">
+                <h3 className="text-2xl font-bold text-[#0B7A75] mb-4">
+                  Latest Blogs
+                </h3>
 
-              <div className="space-y-4">
-                {latestBlogs.map((blog, i) => (
-                  <Link key={i} href={blog.link} className="flex gap-4 items-start hover:opacity-90 transition group">
-                    <Image src={blog.img} alt={blog.title} width={80} height={80} className="rounded-xl object-cover shrink-0 w-20 h-20" />
-                    <div className="min-w-0 flex-1">
-                      <p className="text-gray-900 font-semibold text-sm leading-tight group-hover:text-[#0B7A75] transition line-clamp-2">{blog.title}</p>
-                      <p className="text-gray-500 text-xs mt-1">{blog.date}</p>
-                    </div>
-                  </Link>
-                ))}
+                <div className="space-y-4">
+                  {latestBlogs.map((blog, i) => (
+                    <Link key={i} href={blog.link} className="flex gap-4 items-start hover:opacity-90 transition group">
+                      <Image src={blog.img} alt={blog.title} width={80} height={80} className="rounded-xl object-cover shrink-0 w-20 h-20" />
+                      <div className="min-w-0 flex-1">
+                        <p className="text-gray-900 font-semibold text-sm leading-tight group-hover:text-[#0B7A75] transition line-clamp-2">{blog.title}</p>
+                        <p className="text-gray-500 text-xs mt-1">{blog.date}</p>
+                      </div>
+                    </Link>
+                  ))}
+                </div>
+                {/* Book Appointment CTA */}
+                <Link href="/appointment" className="block mt-6 rounded-xl bg-gradient-to-r from-[#0A1F26] to-[#0B7A75] p-6 text-center shadow-lg hover:shadow-xl hover:scale-[1.02] transition-all duration-300">
+                  <p className="text-white font-bold text-lg">Ready for your best smile?</p>
+                  <p className="text-white/90 text-sm mt-1 mb-4">Expert care at Maxalign Dental</p>
+                  <span className="inline-block w-full py-3 px-6 rounded-lg bg-white text-[#0B7A75] font-semibold hover:bg-[#4EE0D4] hover:text-[#0A1F26] transition">BOOK APPOINTMENT</span>
+                </Link>
               </div>
-              {/* Book Appointment CTA */}
-              <Link href="/appointment" className="block mt-6 rounded-xl bg-gradient-to-r from-[#0A1F26] to-[#0B7A75] p-6 text-center shadow-lg hover:shadow-xl hover:scale-[1.02] transition-all duration-300">
-                <p className="text-white font-bold text-lg">Ready for your best smile?</p>
-                <p className="text-white/90 text-sm mt-1 mb-4">Expert care at Maxalign Dental</p>
-                <span className="inline-block w-full py-3 px-6 rounded-lg bg-white text-[#0B7A75] font-semibold hover:bg-[#4EE0D4] hover:text-[#0A1F26] transition">BOOK APPOINTMENT</span>
-              </Link>
-            </div>
-          </aside>
+            </aside>
 
           </div>
         </section>

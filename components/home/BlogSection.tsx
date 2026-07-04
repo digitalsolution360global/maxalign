@@ -77,6 +77,12 @@ export default function BlogSection() {
       img: "/assets/blogs/dos-and-donts-after-teeth-whitening-bangalore-dentist-tips.webp",
       link: "/blogs/dos-and-donts-after-teeth-whitening-bangalore-dentist-tips",
     },
+    {
+      title: "How Stress is Affecting Your Oral Health: A Growing Concern in Bangalore",
+      desc: "Discover how high corporate stress damages your teeth and gums. Learn expert ways to stop teeth grinding and protect your oral health.",
+      img: "/assets/blogs/dos-and-donts-after-teeth-whitening-bangalore-dentist-tips.webp",
+      link: "/blogs/stress-and-oral-health-bangalore",
+    },
   ];
 
   return (
