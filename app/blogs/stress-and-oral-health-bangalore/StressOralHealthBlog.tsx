@@ -89,7 +89,7 @@ export default function StressOralHealthBlog() {
             <article className="md:col-span-2 bg-white rounded-xl shadow-lg border border-gray-200 overflow-hidden">
               <div className="overflow-hidden">
                 <Image
-                  src="/assets/blogs/dos-and-donts-after-teeth-whitening-bangalore-dentist-tips.webp"
+                  src="/assets/blogs/stress-and-oral-health-bangalore.webp"
                   alt="How Stress is Affecting Your Oral Health – Max Align Bangalore"
                   width={900}
                   height={450}

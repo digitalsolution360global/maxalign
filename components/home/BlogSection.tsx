@@ -81,12 +81,14 @@ export default function BlogSection() {
       title: "Do's and Don'ts After Teeth Whitening: Expert Tips from Bangalore Dentists",
       desc: "Discover critical post whitening care tips from premium dentists at Max Align. Maintain your bright, white smile safely with our expert advice.",
       img: "/assets/blogs/dos-and-donts-after-teeth-whitening-bangalore-dentist-tips.webp",
+      
       link: "/blogs/dos-and-donts-after-teeth-whitening-bangalore-dentist-tips",
     },
     {
       title: "How Stress is Affecting Your Oral Health: A Growing Concern in Bangalore",
       desc: "Discover how high corporate stress damages your teeth and gums. Learn expert ways to stop teeth grinding and protect your oral health.",
-      img: "/assets/blogs/dos-and-donts-after-teeth-whitening-bangalore-dentist-tips.webp",
+      img: "/assets/blogs/stress-and-oral-health-bangalore.webp",
+      // img: "/assets/blogs/dos-and-donts-after-teeth-whitening-bangalore-dentist-tips.webp",
       link: "/blogs/stress-and-oral-health-bangalore",
     },
   ];
