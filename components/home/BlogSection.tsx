@@ -5,6 +5,12 @@ import Link from "next/link";
 
 export default function BlogSection() {
   const blogs = [
+     {
+      title: "Toothache at Night? Here’s How an Emergency Dentist in Marathahalli Can Help – Max Align",
+      desc: "Experiencing severe midnight tooth pain? Max Align, your trusted emergency dentist Marathahalli, provides urgent relief, root canals, and family dental care today.",
+      img: "/assets/blogs/dos-and-donts-after-teeth-whitening-bangalore-dentist-tips.webp",
+      link: "/blogs/emergency-dentist-marathahalli-toothache-at-night",
+    },
     {
       title: "The Ultimate Guide to Choosing a Dentist in Bangalore ",
       desc: "The right dentist in Bangalore can transform your oral health. Improper care may affect your overall...",
