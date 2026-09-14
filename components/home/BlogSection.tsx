@@ -5,6 +5,13 @@ import Link from "next/link";
 
 export default function BlogSection() {
   const blogs = [
+          {
+      title: "Dental Clinic for Tooth Pain in Marathahalli – MaxAlign – 11 Sept 2026",
+      desc: "Need fast tooth pain treatment Marathahalli trusts? Visit MaxAlign Dental Clinic for gentle emergency relief, modern digital diagnostics, and same-day dental care. Call us now!",
+      img: "/assets/blogs/dos-and-donts-after-teeth-whitening-bangalore-dentist-tips.webp",
+      link: "/blogs/tooth-pain-treatment-marathahalli",
+      },
+
      {
       title: "Toothache at Night? Here’s How an Emergency Dentist in Marathahalli Can Help – Max Align",
       desc: "Experiencing severe midnight tooth pain? Max Align, your trusted emergency dentist Marathahalli, provides urgent relief, root canals, and family dental care today.",
@@ -121,7 +128,7 @@ export default function BlogSection() {
                   alt={blog.title}
                   width={400}
                   height={260}
-                  className="w-full h-56 object-cover group-hover:scale-105 transition duration-500"
+                  className="w-full h-56 object-contain group-hover:scale-105 transition duration-500"
                 />
               </div>
               <div className="p-6">
