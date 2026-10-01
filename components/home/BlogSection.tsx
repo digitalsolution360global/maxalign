@@ -5,6 +5,20 @@ import Link from "next/link";
 
 export default function BlogSection() {
   const blogs = [
+    {
+  title:
+    "Invisalign vs Traditional Braces for Working Professionals in Bengaluru – MaxAlign Dental – 28 Sept 2026",
+  desc:
+    "For working professionals in Bengaluru, compare Invisalign and conventional braces. Learn about treatment time, cost, lifestyle convenience, and aesthetics to make an informed decision.",
+  img: "/assets/blogs/b3.jpg",
+  link: "/blogs/invisalign-vs-traditional-braces-working-professionals-bengaluru",
+},
+    {
+  title: "How Long Does Invisalign Really Take? A Realistic Timeline – MaxAlign Dental – 29 Sept 2026",
+  desc: "Discover how long Invisalign treatment takes, from 6 months for minor corrections to 18–24 months for complex cases. Explore the treatment timeline and tips to achieve your dream smile with MaxAlign Dental.",
+  img: "/assets/blogs/b3.jpg",
+  link: "/blogs/how-long-does-invisalign-really-take",
+},
           {
       title: "Dental Clinic for Tooth Pain in Marathahalli – MaxAlign – 11 Sept 2026",
       desc: "Need fast tooth pain treatment Marathahalli trusts? Visit MaxAlign Dental Clinic for gentle emergency relief, modern digital diagnostics, and same-day dental care. Call us now!",
