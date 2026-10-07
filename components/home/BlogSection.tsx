@@ -5,20 +5,32 @@ import Link from "next/link";
 
 export default function BlogSection() {
   const blogs = [
+    { title: "How Much Do Dental Implants Cost in Bengaluru? (Factors That Affect Price) – MaxAlign Dental – 3 Oct 2026", 
+      desc: "Get the best dental implants at the finest pricing. Learn more about customized restoration plans to make the best smile restoration decision today.",
+       img: "/assets/blogs/b3.jpg", 
+       link: "/blogs/dental-implants-cost-bengaluru",
+       },
+       
+       { title: "Coffee, Tea, and Wine: A Bengaluru Foodie's Guide to Avoiding Stains – MaxAlign Dental – 2 Oct 2026", 
+        desc: "Protect your teeth from dark beverage discoloration using proven daily routines, crunchy", 
+        img: "/assets/blogs/b3.jpg", 
+        link: "/blogs/coffee-tea-wine-bengaluru",
+      
+      },
     {
-  title:
-    "Invisalign vs Traditional Braces for Working Professionals in Bengaluru – MaxAlign Dental – 28 Sept 2026",
-  desc:
-    "For working professionals in Bengaluru, compare Invisalign and conventional braces. Learn about treatment time, cost, lifestyle convenience, and aesthetics to make an informed decision.",
-  img: "/assets/blogs/b3.jpg",
-  link: "/blogs/invisalign-vs-traditional-braces-working-professionals-bengaluru",
-},
-    {
-  title: "How Long Does Invisalign Really Take? A Realistic Timeline – MaxAlign Dental – 29 Sept 2026",
-  desc: "Discover how long Invisalign treatment takes, from 6 months for minor corrections to 18–24 months for complex cases. Explore the treatment timeline and tips to achieve your dream smile with MaxAlign Dental.",
-  img: "/assets/blogs/b3.jpg",
-  link: "/blogs/how-long-does-invisalign-really-take",
-},
+        title:
+          "Invisalign vs Traditional Braces for Working Professionals in Bengaluru – MaxAlign Dental – 28 Sept 2026",
+        desc:
+          "For working professionals in Bengaluru, compare Invisalign and conventional braces. Learn about treatment time, cost, lifestyle convenience, and aesthetics to make an informed decision.",
+        img: "/assets/blogs/b3.jpg",
+        link: "/blogs/invisalign-vs-traditional-braces-working-professionals-bengaluru",
+      },
+          {
+        title: "How Long Does Invisalign Really Take? A Realistic Timeline – MaxAlign Dental – 29 Sept 2026",
+        desc: "Discover how long Invisalign treatment takes, from 6 months for minor corrections to 18–24 months for complex cases. Explore the treatment timeline and tips to achieve your dream smile with MaxAlign Dental.",
+        img: "/assets/blogs/b3.jpg",
+        link: "/blogs/how-long-does-invisalign-really-take",
+      },
           {
       title: "Dental Clinic for Tooth Pain in Marathahalli – MaxAlign – 11 Sept 2026",
       desc: "Need fast tooth pain treatment Marathahalli trusts? Visit MaxAlign Dental Clinic for gentle emergency relief, modern digital diagnostics, and same-day dental care. Call us now!",
